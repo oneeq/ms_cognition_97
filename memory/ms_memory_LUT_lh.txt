@@ -1,0 +1,7 @@
+#$Id: ms_memory_LUT_lh.txt,v 1 2017/05/03 jps $
+
+#No. Label Name:                            R   G   B   A
+
+0   Unknown                                 0   0   0   0
+
+#No.   Label Name:                              R   G   B   A1 lh.digit_bw-001 0 46 128 02 lh.digit_bw-002 140 229 247 03 lh.digit_bw-003 12 29 52 04 lh.digit_bw-004 186 221 235 05 lh.digit_bw-005 0 98 214 06 lh.vlm_delay-001 32 32 33 07 lh.rey_recall-001 128 141 255 08 lh.rey_recall-002 0 55 68 09 lh.rey_recall-003 92 110 231 010 lh.rey_recall-004 51 68 71 011 lh.rey_recall-005 114 153 255 012 lh.rey_recall-006 0 75 87 013 lh.vlmt_1_5-001 215 212 248 014 lh.vlmt_1_5-002 0 91 192 015 lh.vlmt_1_5-003 162 166 167 016 lh.vlmt_1_5-004 2 131 239 0

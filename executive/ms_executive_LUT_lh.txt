@@ -1,0 +1,15 @@
+#$Id: ms_memory_LUT_lh.txt,v 1 2017/05/03 jps $
+
+#No. Label Name:                            R   G   B   A
+
+0   Unknown                                 0   0   0   0
+
+#No.   Label Name:                              R   G   B   A1 lh.lps3-001.label 204 225 0 0
+2 lh.lps3-002.label 71 80 29 0
+3 lh.lps3-003.label 159 255 181 0
+4 lh.tmt_b-001.label 0 123 43 0
+5 lh.rwt_GR-001.label 240 255 167 0
+6 lh.rwt_GR-002.label 42 196 107 0
+7 lh.rwt_an-001.label 203 202 172 0
+8 lh.rwt_an-002.label 107 166 0 0
+9 lh.rwt_an-003.label 172 175 70 0

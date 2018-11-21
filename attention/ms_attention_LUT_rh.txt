@@ -1,0 +1,5 @@
+#$Id: ms_attention_LUT_rh.txt,v 1 2017/05/03 jps $
+
+#No.   Label Name: R   G   B   A
+
+1  rh.tap_da-001  243 129  94 02  rh.tap_da-002  89  81  36  03  rh.sdmt-001    230 150 0   04  rh.sdmt-002    117 46  1   05  rh.sdmt-003    255 213 129 06  rh.sdmt-004    180 69  38  07  rh.sdmt-005    180 155 0   08  rh.sdmt-006    252 163 135 09  rh.sdmt-007    103 81  0   010 rh.sdmt-008    162 98  0   011 rh.tmt_a-001   136 124 59 0

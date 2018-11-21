@@ -1,0 +1,7 @@
+#$Id: ms_memory_LUT_lh.txt,v 1 2017/05/03 jps $
+
+#No. Label Name:                            R   G   B   A
+
+0   Unknown                                 0   0   0   0
+
+#No.   Label Name:                              R   G   B   A1 lh.rey_copy-001 233 0 180 02 lh.rey_copy-002 249 170 166 03 lh.rey_copy-003 77 0 34 04 lh.rey_copy-004 251 99 216 05 lh.rey_copy-005 144 79 86 06 lh.rey_copy-006 212 93 183 07 lh.rey_copy-007 218 69 78 08 lh.rey_copy-008 88 34 75 0

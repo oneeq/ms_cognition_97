@@ -1,0 +1,5 @@
+#$Id: ms_attention_LUT.txt,v 1 2017/05/03 jps $
+
+#No.   Label Name: R   G   B   A
+
+1	TAP_DA_RH_Superiorparietal	243	129	94	0102	TAP_DA_RH_Parahippocampal	89	81	36	0103	SDMT_LH_Fusiform		234	89	49	0104	SDMT_LH_Fusiform		173	165	136	0105	SDMT_LH_Superiorfrontal		221	107	6	0106	SDMT_LH_Lateraloccipital	236	198	186	0107	SDMT_RH_Fusiform		230	150	0	0108	SDMT_RH_Superiorparietal	117	46	1	0109	SDMT_RH_Parsopercularis		255	213	129	0110	SDMT_RH_Bankssts		180	69	38	0111	SDMT_RH_Inferiorparietal	180	155	0	0112	SDMT_RH_Insula			252	163	135	0113	SDMT_RH_Superiortemporal	103	81	0	0114	SDMT_RH_Fusiform		162	98	0	0115	TMT-A_RH_Transversetemporal	136	124	59	0

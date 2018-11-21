@@ -1,0 +1,13 @@
+#$Id: ms_cognition_LUT_rh.txt,v 1 2017/05/03 jps $
+
+
+
+#No. Label Name:                            R   G   B   A
+
+
+
+0   Unknown                                 0   0   0   0
+
+
+
+#No.   Label Name: R   G   B   A#Attention1 rh.tap_da-001 243 129  94 02 rh.tap_da-002 89  81  36 03 rh.sdmt-001 230 150 0 04 rh.sdmt-002 117 46 1 05 rh.sdmt-003 255 213 129 06 rh.sdmt-004 180 69 38 07 rh.sdmt-005 180 155 0 08 rh.sdmt-006 252 163 135 09 rh.sdmt-007 103 81 0 010 rh.sdmt-008 162 98 0 011 rh.tmt_a-001 136 124 59 0#MEMORY12 rh.digit_bw-001 143 169 174 013 rh.digit_bw-002 79 90 182 014 rh.digit_bw-003 175 219 255 015 rh.digit_bw-004 0 75 143 016 rh.digit_bw-005 109 206 255 017 rh.vlm_delay-001 74 73 94 018 rh.rey_recall-001 63 169 255 019 rh.rey_recall-002 101 100 116 020 rh.rey_recall-003 178 178 255 021 rh.rey_recall-004 1 98 120 022 rh.rey_recall-005 197 199 255 023 rh.rey_recall-006 0 73 128 024 rh.rey_recall-007 0 160 185 025 rh.rey_recall-008 94 98 173 026 rh.rey_recall-009 90 138 147 027 rh.rey_recall-010 0 120 199 028 rh.rey_recall-011 73 116 124 029 rh.vlmt_1_5-001 2 166 232 030 rh.vlmt_1_5-002 158 156 179 031 rh.vlmt_1_5-003 0 118 169 032 rh.vlmt_recog-001 110 109 162 033 rh.vlmt_recog-001 2 153 201 0# SPATIAL PROCESSING34 rh.rey_copy-001 255 86 108 035 rh.rey_copy-002 253 162 227 036 rh.rey_copy-003 194 0 79 037 rh.rey_copy-004 199 126 123 038 rh.rey_copy-005 148 0 86 039 rh.rey_copy-006 255 123 141 040 rh.rey_copy-007 255 102 152 041 rh.lps7-001 175 66 70 0# Executive functioning42 rh.lps3-001 225 255 212 043 rh.lps3-002 1 198 48 044 rh.rwt_GR-001 156 160 156 0
