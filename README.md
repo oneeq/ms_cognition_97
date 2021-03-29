@@ -5,5 +5,5 @@ This repository provide access to the annotation files and look up tables (LUT) 
 
 Please cite the following paper if you use the data:
 
-Stellmann, Jan-Patrick, Nadine Wanke, Adil Maarouf, Susanne Gellißen, Christoph Heesen, Bertrand Audoin, Stephan M Gold, Wafaa Zaaraoui, and Jana Poettgen. “Cognitive Performance Shows Domain Specific Associations with Regional Cortical Thickness in Multiple Sclerosis.” NeuroImage: Clinical 30, no. February (2021): 102606. https://doi.org/https://doi.org/10.1016/j.nicl.2021.102606.
+Jan-Patrick Stellmann, Nadine Wanke, Adil Maarouf, Susanne Gellißen, Christoph Heesen, Bertrand Audoin, Stephan M Gold, Wafaa Zaaraoui, and Jana Poettgen. “Cognitive Performance Shows Domain Specific Associations with Regional Cortical Thickness in Multiple Sclerosis.” NeuroImage: Clinical 30, no. February (2021): 102606. https://doi.org/https://doi.org/10.1016/j.nicl.2021.102606.
 
